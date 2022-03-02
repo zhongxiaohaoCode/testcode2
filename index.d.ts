@@ -1,5 +1,6 @@
 import { IonicNativePlugin } from '@ionic-native/core';
 import { Observable } from 'rxjs/Observable';
+//zhonngha
 export interface ThemeableBrowserButton {
     wwwImage?: string;
     image?: string;
